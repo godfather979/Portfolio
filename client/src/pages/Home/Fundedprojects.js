@@ -4,13 +4,14 @@ import { Space, Table, Tag, Typography } from 'antd';
 import Mentored from "./Mentored";
 import moment from "moment";
 import './Styles.css';
+import portfolioData from "../../portfolioData.json"
 
 
 
 const { Title, Text } = Typography;
 
 function Fundedprojects() {
-    const { portfolioData } = useSelector((state) => state.root);
+
 
     // Safely access awards with optional chaining and provide a default empty array
     const fprojects = portfolioData?.fprojects || [];

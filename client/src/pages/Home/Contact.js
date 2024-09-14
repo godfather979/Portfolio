@@ -1,9 +1,10 @@
 
 import { useSelector } from "react-redux";
 import SectionTitle from "../../components/SectionTitle";
+import portfolioData from "../../portfolioData.json"
 
 function Contact() {
-  const { portfolioData } = useSelector((state) => state.root);
+
   const { contact } = portfolioData;
   return (
     <div>

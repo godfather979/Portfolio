@@ -1,9 +1,10 @@
 
 import { useSelector } from "react-redux";
+import portfolioData from "../../portfolioData.json"
 import SectionTitle from "../../components/SectionTitle";
 
 function Interest() {
-  const { loading, portfolioData } = useSelector((state) => state.root);
+
   const { interests } = portfolioData;
   // console.log(interests);
   // console.log(portfolioData);

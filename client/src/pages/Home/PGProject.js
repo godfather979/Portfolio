@@ -2,6 +2,7 @@
 import { useSelector } from "react-redux";
 import { Table, Typography} from 'antd';
 import moment from "moment";
+import portfolioData from "../../portfolioData.json"
 
 const { Title, Text } = Typography;
 const handleDownloadImage = (url) => {
@@ -15,7 +16,6 @@ const handleDownloadImage = (url) => {
 
 function PGProject() {
     const [selectedItemIndex, setSelectedItemIndex] = React.useState(0);
-    const { portfolioData } = useSelector((state) => state.root);
 
     // Safely access awards with optional chaining and provide a default empty array
     const pgprojects = portfolioData?.pgprojects || [];

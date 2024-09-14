@@ -3,9 +3,10 @@ import { useSelector } from "react-redux";
 import SectionTitle from "../../components/SectionTitle";
 import moment from "moment";
 import { FaChevronDown } from 'react-icons/fa'; 
+import portfolioData from "../../portfolioData.json"
 
 function PastPosition() {
-  const { portfolioData } = useSelector((state) => state.root);
+
   const { pastpositions } = portfolioData;
   const scrollContainerRef = useRef(null); // Create a ref for the scrollable container
 

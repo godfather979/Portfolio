@@ -1,0 +1,966 @@
+{
+    "intro": {
+      "_id": "668bcb36d407fbd48589a7d6",
+      "welcomeText": "",
+      "firstName": "Kiran",
+      "lastName": "TALELE",
+      "caption": "I'm a TEACHER/INSTRUCTOR/GUIDE/MENTOR/COACH @ Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology (Mumbai)",
+      "description": ""
+    },
+    "about": {
+      "_id": "668bcc54d407fbd4858b3a90",
+      "lottieURL": "https://www.spit.ac.in/wp-content/uploads/profkttalele/website/images/talele.png",
+      "description1": "Dr. Kiran Talele  is an Associate Professor in Electronics & Telecommunication Engineering Department of Bharatiya Vidya Bhavans’ Sardar Patel Institute of Technology, Mumbai with 33+ years’ experience in Academics.\nHe is the Dean of Students, Alumni and External Relations at Sardar Patel Institute of Technology, Andheri Mumbai.\nHe is also a Coordinator of Sardar Patel Technology Business Incubator, Mumbai.\nHis area of research is Digital Signal & Image Processing, Computer Vision, Machine Learning and Multimedia System Design.\nHe has published 85+ research papers at various national & international refereed conferences and journals.  He has published 22 patents at Indian Patent Office. One patent is granted in 2021.\nHe is a Treasurer of IEEE Bombay Section and Mentor for Startup Incubation & Intellectual Asset Creation.\nHe received incentives for excellent performance in academics and research from Management of S.P.I.T. in 2008-09.  He is a recipient of P.R. Bapat IEEE Bombay Section Outstanding Volunteer Award 2019. \n",
+      "description2": "",
+      "skills": [
+        "JavaScript         ",
+        "         React         ",
+        "         Node         ",
+        "         Express         ",
+        "         MongoDB "
+      ]
+    },
+    "projects": [
+      {
+        "technolgies": [],
+        "_id": "668bc42521255624570527ee",
+        "technologies": [],
+        "title": "IIC Website",
+        "image": "https://sheysathya2.netlify.app/cars.svg",
+        "description": "An administration website developed using MERN",
+        "link": "iic.spit.ac.in"
+      },
+      {
+        "technolgies": [],
+        "_id": "668bc42521255624570527f0",
+        "technologies": [],
+        "title": "AI-codeGenerator",
+        "image": "https://sheysathya2.netlify.app/socialmedia.svg",
+        "description": "A python application to make applications using NLP",
+        "link": "https://github.com/lokeshch185/AI-codeGenerator"
+      }
+    ],
+    "contact": {
+      "_id": "668bcac8d407fbd485891a61",
+      "name": "Lokesh Chaudhari",
+      "gender": "Male",
+      "age": "20",
+      "email": "lokeshchaudhari14@gmail.com",
+      "mobile": "7057054863",
+      "address": "Mumbai, India"
+    },
+    "experiences": [
+      {
+        "_id": "668bc949d407fbd485870d3a",
+        "company": "D.Y.Patil College of Engineering Kolhapur",
+        "title": "Lecturer-Electronics Engineering ",
+        "period": "01-08-1989 to 31-01-1992",
+        "description": ""
+      },
+      {
+        "_id": "668bc949d407fbd485870d3b",
+        "company": "V.E.S Institute of Technology, Chembur,Mumbai",
+        "title": "Lecturer - Electronics Engineering ",
+        "period": "01-08-1991 to 31-07-1993",
+        "description": ""
+      },
+      {
+        "_id": "66a346a7973337a686a09424",
+        "title": "Lecturer - Computer Engineering ",
+        "period": "August 1993 To 30-04-1995",
+        "company": "Walchand College of Engineering Sangli",
+        "description": "",
+        "__v": 0
+      },
+      {
+        "_id": "66a346e4973337a686a09476",
+        "title": "Lecturer - Electronics Engineering ",
+        "period": "04-07-1995 To 01-04-1996",
+        "company": "M.G.M. College of Engineering Kamothe , New-Mumbai",
+        "description": "",
+        "__v": 0
+      },
+      {
+        "_id": "66a3471e973337a686a094c7",
+        "title": "Assistant Professor - Electronics Engineering ",
+        "period": "02-04-1996 To 31-07-1997",
+        "company": "M.G.M. College of Engineering Kamothe , New-Mumbai",
+        "description": "",
+        "__v": 0
+      },
+      {
+        "_id": "66a3474e973337a686a09518",
+        "title": "Associate Professor - Electronics Engineering ",
+        "period": "01-01-2006 To till today",
+        "company": "Bharatiya Vidya Bhavans’ Sardar Patel College of Engineering Andheri, Mumbai",
+        "description": "",
+        "__v": 0
+      },
+      {
+        "_id": "66a3477b973337a686a09534",
+        "title": "Assistant Professor - Electronics Engineering ",
+        "period": "01-08-2005 to 31-12-2005",
+        "company": "Bharatiya Vidya Bhavans’ Sardar Patel College of Engineering Andheri, Mumbai",
+        "description": "",
+        "__v": 0
+      },
+      {
+        "_id": "66a3479e973337a686a09550",
+        "title": "Associate Professor - Electronics Engineering ",
+        "period": "01-01-2006 To till today",
+        "company": "Bharatiya Vidya Bhavans’ Sardar Patel College of Engineering Andheri, Mumbai",
+        "description": "",
+        "__v": 0
+      }
+    ],
+    "courses": [
+      {
+        "_id": "668bca72d407fbd48588a143",
+        "title": "React Development Course",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V068QLqC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jbux8kukb9osdpqwc2sm.png",
+        "link": "/",
+        "description": ""
+      },
+      {
+        "_id": "668bca72d407fbd48588a144",
+        "title": "Node JS Course",
+        "image": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/686461/cover-secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png",
+        "link": "/",
+        "description": ""
+      },
+      {
+        "_id": "668bca72d407fbd48588a145",
+        "title": "HTML+CSS+Bootstrap",
+        "image": "https://media.onlinecoursebay.com/2019/03/19033724/1890026_f604_4.jpg",
+        "link": "/",
+        "description": ""
+      },
+      {
+        "_id": "668bca72d407fbd48588a146",
+        "title": "Fullstack Web Development",
+        "image": "https://miro.medium.com/max/750/1*-hL6ZeXl_Kt0O-b82UQo9A.png",
+        "link": "/",
+        "description": ""
+      },
+      {
+        "_id": "668bca72d407fbd48588a147",
+        "title": "MERN Stack Bootcamp",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2a-_OwgW--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sm5uwpip9yglugcc15h4.png",
+        "link": "/",
+        "description": ""
+      },
+      {
+        "_id": "668bca72d407fbd48588a148",
+        "title": "Javascript Mastery",
+        "image": "https://cdn2.vectorstock.com/i/1000x1000/69/16/javascript-programming-language-with-script-code-vector-21946916.jpg",
+        "link": "/",
+        "description": ""
+      }
+    ],
+    "talks": [
+      {
+        "_id": "668f877fbe77282d95af7107",
+        "title": "Introduction to Quantum Computing",
+        "type_of_audience": "Students",
+        "number": "hmhk",
+        "org_name": "Tech University",
+        "remark": "Very engaging session with lots of questions from students.",
+        "date": "2023-06-15T00:00:00.000Z"
+      },
+      {
+        "_id": "668f877fbe77282d95af7108",
+        "title": "AI and the Future",
+        "type_of_audience": "Professionals",
+        "number": "250",
+        "org_name": "Innovate Inc.",
+        "remark": "Great turnout, received positive feedback from attendees.",
+        "date": "2023-07-20T00:00:00.000Z"
+      }
+    ],
+    "journals": [
+      {
+        "_id": "668f8483be77282d95aa6d5f",
+        "Title": "Journal of Molecular Biology",
+        "Title_of_journal_ppr": "Structural Insights into DNA Repair Mechanisms",
+        "Author_list": "David Smith, Anna Taylor, James Brown",
+        "ISSN_DOI": "5678-1234 / 10.5678/molbio-doi-2",
+        "Remark": "Research highlights novel repair pathways."
+      },
+      {
+        "_id": "668f8483be77282d95aa6d5e",
+        "Title": "Advances in Neuroscience",
+        "Title_of_journal_ppr": "Mapping Neuronal Connections in the Human Brain",
+        "Author_list": "Emily Johnson, Michael Anderson, Sarah Lee",
+        "ISSN_DOI": "1234-5678 / 10.1234/neuroscience-doi-1",
+        "Remark": "Study focused on cortical connectivity."
+      },
+      {
+        "_id": "668f8483be77282d95aa6d60",
+        "Title": "Environmental Science & Technology",
+        "Title_of_journal_ppr": "Impact of Microplastics on Aquatic Ecosystem",
+        "Author_list": "Sophia Williams, Ethan Davis, Olivia Martinez",
+        "ISSN_DOI": "9876-5432 / 10.9876/envsci-doi-3",
+        "Remark": "Findings suggest widespread contamination."
+      }
+    ],
+    "fprojects": [
+      {
+        "_id": "668f8421be77282d95a9cd25",
+        "title": "Suspicious Activity Detection and Tracking ",
+        "studentgrp": "Group A",
+        "absvideolink": "https://example.com/video1",
+        "photo": "https://example.com/photo1.jpg",
+        "fundingagencyname": "Mumbai University under Minority Research Grant",
+        "amtfunded": "30,000",
+        "remark": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "tenurefrom": "2014-10-12T20:30:27.979Z",
+        "tenureto": "2015-03-31T00:00:00.000Z"
+      },
+      {
+        "_id": "668f8421be77282d95a9cd26",
+        "title": "Customized Deep Learning based Patient Monitoring System using Video Analytics ",
+        "studentgrp": "Group B",
+        "absvideolink": "https://example.com/video2",
+        "photo": "https://example.com/photo2.jpg",
+        "fundingagencyname": "Mumbai University under Minority Research Grant",
+        "amtfunded": "30,000",
+        "remark": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "tenurefrom": "2020-03-14T20:31:23.879Z",
+        "tenureto": "2020-12-01T00:00:00.000Z"
+      }
+    ],
+    "conferences": [
+      {
+        "_id": "668fd99dbe77282d953f1da6",
+        "title": "Innovations in Renewable Energy",
+        "conference": "Sustainable Energy Conference",
+        "date": "2023-08-10T00:00:00.000Z",
+        "authors": "Chris Green, Laura White",
+        "venue": "Berlin, Germany",
+        "DOI": "10.1234/energy.2023.0004",
+        "remark": "Presented new solar and wind technologies"
+      },
+      {
+        "_id": "668fd99dbe77282d953f1da7",
+        "title": "The Impact of Blockchain Technology",
+        "conference": "Blockchain World Congress",
+        "date": "2023-09-30T00:00:00.000Z",
+        "authors": "David Miller, Sara Wilson",
+        "venue": "Tokyo, Japan",
+        "DOI": "10.1234/blockchain.2023.0005",
+        "remark": "Explored blockchain's influence on finance"
+      },
+      {
+        "_id": "668fd99dbe77282d953f1da3",
+        "title": "Advancements in AI and Machine Learning",
+        "conference": "International Conference on AI",
+        "date": "2023-05-15T00:00:00.000Z",
+        "authors": "John Doe, Jane Smith",
+        "venue": "New York, USA",
+        "DOI": "10.1234/ai.2023.0001",
+        "remark": "Keynote speech on the future of AI"
+      },
+      {
+        "_id": "668fd99dbe77282d953f1da4",
+        "title": "Quantum Computing and Its Applications",
+        "conference": "Quantum Computing Symposium",
+        "date": "2023-06-20T00:00:00.000Z",
+        "authors": "Alice Johnson, Robert Brown",
+        "venue": "London, UK",
+        "DOI": "10.1234/quantum.2023.0002",
+        "remark": "Discussed potential real-world applications"
+      },
+      {
+        "_id": "668fd99dbe77282d953f1da5",
+        "title": "Cybersecurity Trends in 2023",
+        "conference": "Global Cybersecurity Summit",
+        "date": "2023-07-25T00:00:00.000Z",
+        "authors": "Michael Lee, Emily Davis",
+        "venue": "San Francisco, USA",
+        "DOI": "10.1234/cyber.2023.0003",
+        "remark": "Highlighted recent cybersecurity breaches"
+      }
+    ],
+    "oractivities": [
+      {
+        "_id": "668fde8abe77282d954767f3",
+        "date": "2024-07-15T00:00:00.000Z",
+        "organisation": "Tech Innovators Inc.",
+        "type": "Workshop",
+        "title": "Advanced AI Techniques",
+        "responsibilities": "Organized and conducted a workshop on advanced AI techniques.",
+        "remarks": "Received positive feedback from participants."
+      },
+      {
+        "_id": "668fde8abe77282d954767f4",
+        "date": "2024-05-10T00:00:00.000Z",
+        "organisation": "Green Earth Foundation",
+        "type": "Seminar",
+        "title": "Sustainable Development Goals",
+        "responsibilities": "Presented on the importance of sustainable development goals.",
+        "remarks": "Engaged with over 200 attendees."
+      },
+      {
+        "_id": "668fde8abe77282d954767f5",
+        "date": "2024-04-22T00:00:00.000Z",
+        "organisation": "Health & Wellness Org",
+        "type": "Conference",
+        "title": "Mental Health Awareness",
+        "responsibilities": "Coordinated the conference and managed guest speakers.",
+        "remarks": "Helped raise awareness on mental health issues."
+      },
+      {
+        "_id": "668fde8abe77282d954767f6",
+        "date": "2024-03-30T00:00:00.000Z",
+        "organisation": "Education for All",
+        "type": "Training",
+        "title": "Digital Literacy Training",
+        "responsibilities": "Conducted training sessions for underprivileged students.",
+        "remarks": "Improved digital literacy among participants."
+      }
+    ],
+    "ugprojects": [
+      {
+        "_id": "669590cb7e1c684dcfacfb6a",
+        "title": "Smart Irrigation System",
+        "group": "GreenTech Innovators",
+        "abstract": "An automated irrigation system that optimizes water usage for agricultural fields.",
+        "link": "http://example.com/smart-irrigation",
+        "photo": "http://example.com/photos/smart-irrigation.jpg",
+        "reportlink": "http://example.com/reports/smart-irrigation.pdf"
+      },
+      {
+        "_id": "669590cb7e1c684dcfacfb6b",
+        "title": "Health Monitoring Wearable",
+        "group": "BioTech Enthusiasts",
+        "abstract": "A wearable device that continuously monitors and reports health metrics.",
+        "link": "http://example.com/health-wearable",
+        "photo": "http://example.com/photos/health-wearable.jpg",
+        "reportlink": "http://example.com/reports/health-wearable.pdf"
+      },
+      {
+        "_id": "669590cb7e1c684dcfacfb6c",
+        "title": "AI-Powered Tutor",
+        "group": "EdTech Solutions",
+        "abstract": "An AI-powered tutor that provides personalized learning experiences for students.",
+        "link": "http://example.com/ai-tutor",
+        "photo": "http://example.com/photos/ai-tutor.jpg",
+        "reportlink": "http://example.com/reports/ai-tutor.pdf"
+      },
+      {
+        "_id": "669590cb7e1c684dcfacfb6d",
+        "title": "Smart Home Assistant",
+        "group": "Home Automation Experts",
+        "abstract": "An integrated system that automates and controls various home appliances.",
+        "link": "http://example.com/smart-home-assistant",
+        "photo": "http://example.com/photos/smart-home-assistant.jpg",
+        "reportlink": "http://example.com/reports/smart-home-assistant.pdf"
+      },
+      {
+        "_id": "669590cb7e1c684dcfacfb6e",
+        "title": "Renewable Energy Tracker",
+        "group": "Eco Warriors",
+        "abstract": "A system to monitor and optimize renewable energy consumption.",
+        "link": "http://example.com/renewable-energy-tracker",
+        "photo": "http://example.com/photos/renewable-energy-tracker.jpg",
+        "reportlink": "http://example.com/reports/renewable-energy-tracker.pdf"
+      }
+    ],
+    "pgprojects": [
+      {
+        "_id": "669590997e1c684dcfacc7d3",
+        "title": "Autonomous Delivery Drone",
+        "group": "AeroTech Innovators",
+        "abstract": "A drone system designed for efficient and safe delivery of packages.",
+        "link": "http://example.com/delivery-drone",
+        "photo": "http://example.com/photos/delivery-drone.jpg",
+        "reportlink": "https://drive.google.com/file/d/1veETaNRc7EGMiDWKOOmM80re6b4eggHx/view?usp=sharing"
+      },
+      {
+        "_id": "669590997e1c684dcfacc7d4",
+        "title": "Smart Traffic Management",
+        "group": "UrbanTech Developers",
+        "abstract": "A solution to optimize traffic flow and reduce congestion in urban areas.",
+        "link": "http://example.com/smart-traffic",
+        "photo": "http://example.com/photos/smart-traffic.jpg",
+        "reportlink": "http://example.com/reports/smart-traffic.pdf"
+      },
+      {
+        "_id": "669590997e1c684dcfacc7d5",
+        "title": "Virtual Reality Classroom",
+        "group": "EduTech Pioneers",
+        "abstract": "A VR-based classroom environment for immersive learning experiences.",
+        "link": "http://example.com/vr-classroom",
+        "photo": "http://example.com/photos/vr-classroom.jpg",
+        "reportlink": "http://example.com/reports/vr-classroom.pdf"
+      },
+      {
+        "_id": "669590997e1c684dcfacc7d6",
+        "title": "Blockchain Voting System",
+        "group": "CryptoTech Innovators",
+        "abstract": "A secure and transparent voting system using blockchain technology.",
+        "link": "http://example.com/blockchain-voting",
+        "photo": "http://example.com/photos/blockchain-voting.jpg",
+        "reportlink": "http://example.com/reports/blockchain-voting.pdf"
+      },
+      {
+        "_id": "669590997e1c684dcfacc7d7",
+        "title": "Telemedicine Platform",
+        "group": "HealthTech Solutions",
+        "abstract": "A platform to facilitate remote medical consultations and treatment.",
+        "link": "http://example.com/telemedicine",
+        "photo": "http://example.com/photos/telemedicine.jpg",
+        "reportlink": "http://example.com/reports/telemedicine.pdf"
+      }
+    ],
+    "awards": [
+      {
+        "_id": "668f82c1be77282d95a79167",
+        "title": "Received incentives in year 2008-09 for excellent performance in academics and research from Management of Bharatiya Vidya Bhavans’ Sardar Patel Institute of Technology Mumbai.",
+        "organisation": "International Conference on Artificial Intelligence",
+        "photo": "https://i.insider.com/61923b7fd672280019244b66?width=700",
+        "remark": "Recognized for outstanding research in the field of AI.",
+        "date": "2023-05-04T00:00:00.000Z"
+      }
+    ],
+    "currentpositions": [
+      {
+        "_id": "66a348e8973337a686a096c8",
+        "position": "Associate Professor ",
+        "department": "Electronics Engineering Department",
+        "tenure": "2024-07-26T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66ab565160df55ca874b7f5c",
+        "position": "Dean - Students, Alumni & External Relations",
+        "department": "Sardar Patel Institute of Technology",
+        "tenure": "2024-08-01T00:00:00.000Z",
+        "__v": 0
+      }
+    ],
+    "pastpositions": [
+      {
+        "_id": "66a34aaf973337a686a0980a",
+        "position": "In-charge ",
+        "department": "Unaided Wing of Sardar Patel College of Engineering ",
+        "tenurefrom": "1997-05-31T18:30:00.000Z",
+        "tenureto": "2001-04-30T18:30:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34b1e973337a686a09826",
+        "position": "In-charge Head",
+        "department": "Electronics Engineering Department",
+        "tenurefrom": "2001-05-31T18:30:00.000Z",
+        "tenureto": "2004-04-30T18:30:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34b38973337a686a09842",
+        "position": "In-charge Head",
+        "department": "Electronics Engineering Department",
+        "tenurefrom": "2008-04-30T18:30:00.000Z",
+        "tenureto": "2009-05-31T18:30:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34b75973337a686a09893",
+        "position": "In-charge Head",
+        "department": "Electronics Engineering Department",
+        "tenurefrom": "2011-03-31T18:30:00.000Z",
+        "tenureto": "2011-08-31T18:30:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34b94973337a686a098af",
+        "position": "In-charge Head",
+        "department": "IT Department",
+        "tenurefrom": "2004-06-30T18:30:00.000Z",
+        "tenureto": "2007-05-31T18:30:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34be3973337a686a098cb",
+        "position": "Member of Local Managing Committee",
+        "department": "Sardar Patel College of Engineering ",
+        "tenurefrom": "2005-01-01T00:00:00.000Z",
+        "tenureto": "2008-01-01T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34c43973337a686a098e7",
+        "position": "In-charge Principal",
+        "department": "Sardar Patel Institute of Technology ",
+        "tenurefrom": "2008-10-04T18:30:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34c74973337a686a09903",
+        "position": "Information Officer under RTI act ",
+        "department": "-",
+        "tenurefrom": "2009-01-01T00:00:00.000Z",
+        "tenureto": "2011-01-01T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34ee9973337a686a0991f",
+        "position": "Exe-com Committee Member ",
+        "department": "IEEE Bombay Section ",
+        "tenurefrom": "2009-01-01T00:00:00.000Z",
+        "tenureto": "2009-01-01T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34f01973337a686a0993b",
+        "position": "Exe-com Committee Member ",
+        "department": "IEEE Bombay Section ",
+        "tenurefrom": "2012-01-01T00:00:00.000Z",
+        "tenureto": "2012-01-01T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34f14973337a686a09957",
+        "position": "Exe-com Committee Member ",
+        "department": "IEEE Bombay Section ",
+        "tenurefrom": "2015-01-01T00:00:00.000Z",
+        "tenureto": "2024-01-01T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34f31973337a686a09973",
+        "position": "Students Activities Chair",
+        "department": "IEEE Bombay Section ",
+        "tenurefrom": "2015-01-01T00:00:00.000Z",
+        "tenureto": "2020-01-01T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34f4c973337a686a0998f",
+        "position": "Treasurer",
+        "department": "IEEE Bombay Section ",
+        "tenurefrom": "2020-01-01T00:00:00.000Z",
+        "tenureto": "2023-01-01T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a34f7f973337a686a099ab",
+        "position": "In-charge Head ",
+        "department": "MCA",
+        "__v": 0
+      },
+      {
+        "_id": "66a34fc2973337a686a099c7",
+        "position": "Co-ordinator  ",
+        "department": "DST funded Innovation & Entrepreneurship Development Center (IEDC) ",
+        "tenurefrom": "2009-03-31T18:30:00.000Z",
+        "tenureto": "2020-01-01T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a3501e973337a686a099e3",
+        "position": "Head Academic Relations and Chief Finance Officer",
+        "department": "Sardar Patel Technology Business Incubator ",
+        "tenurefrom": "2015-01-01T00:00:00.000Z",
+        "tenureto": "2024-01-01T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a3504e973337a686a099ff",
+        "position": "Member ",
+        "department": "Governing Body of Sardar Patel Institute of Technology ",
+        "tenurefrom": "2023-01-01T00:00:00.000Z",
+        "tenureto": "2025-01-01T00:00:00.000Z",
+        "__v": 0
+      }
+    ],
+    "patents": [
+      {
+        "_id": "66961ef37e1c684dcf5b485e",
+        "date": "2022-01-15T00:00:00.000Z",
+        "title": "Advanced AI Algorithms for Pattern Recognition",
+        "authors": "Dr. Jane Doe, Dr. John Smith",
+        "organisation": "Tech Innovations Inc.",
+        "remarks": "Pending approval"
+      },
+      {
+        "_id": "66961ef37e1c684dcf5b485f",
+        "date": "2023-03-22T00:00:00.000Z",
+        "title": "Renewable Energy Storage Solutions",
+        "authors": "Alice Johnson, Bob Brown",
+        "organisation": "GreenTech Solutions",
+        "remarks": "Approved"
+      },
+      {
+        "_id": "66961ef37e1c684dcf5b4860",
+        "date": "2021-11-08T00:00:00.000Z",
+        "title": "Next-Gen Quantum Computing Architectures",
+        "authors": "Dr. Emily White, Dr. Michael Green",
+        "organisation": "Quantum Leap Labs",
+        "remarks": "Under review"
+      },
+      {
+        "_id": "66961ef37e1c684dcf5b4861",
+        "date": "2024-07-27T00:00:00.000Z",
+        "title": "Autonomous Vehicle Navigation Systems",
+        "authors": "David Black, Sarah Blue",
+        "organisation": "AutoDrive Corp.",
+        "remarks": "Accepted"
+      },
+      {
+        "_id": "66961ef37e1c684dcf5b4862",
+        "date": "2024-05-05T00:00:00.000Z",
+        "title": "Innovative Biodegradable Plastics",
+        "authors": "Laura Red, Chris Orange",
+        "organisation": "EcoMaterials Co.",
+        "remarks": "Filed"
+      }
+    ],
+    "interests": [
+      {
+        "_id": "669e30386e01dcbc3ce72d09",
+        "title": "Digital Signal and Image Processing",
+        "__v": 0
+      },
+      {
+        "_id": "669e3111deec7d2ecbc7f958",
+        "title": "Computer Vision and Machine Learning",
+        "__v": 0
+      },
+      {
+        "_id": "669f654ef84746828c595714",
+        "title": "Multimedia System Design",
+        "__v": 0
+      }
+    ],
+    "recognitions": [
+      {
+        "_id": "669e2e5decb052f677b62db4",
+        "title": "PG Teacher of Mumbai University in Electronics Engineering",
+        "date": "2004-05-10T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "669e3102deec7d2ecbc7f943",
+        "title": "PG teacher of Mumbai University in Computer Engineering",
+        "date": "2009-04-13T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "669fdcf6d050242c474f3f08",
+        "title": "PG Teacher of Mumbai University in Electronics & Telecommunication Engineering",
+        "date": "2012-05-10T00:00:00.000Z",
+        "__v": 0
+      }
+    ],
+    "addpositions": [
+      {
+        "_id": "669e4b872eeed0a8cdf990ef",
+        "position": "Coordinator",
+        "department": "Sardar Patel Institute of Technology Business Incubator",
+        "__v": 0
+      },
+      {
+        "_id": "669e4bc02eeed0a8cdf99128",
+        "position": "Treasurer",
+        "department": "IEEE Bombay Section",
+        "__v": 0
+      },
+      {
+        "_id": "669e4bf22eeed0a8cdf9913c",
+        "position": "In-Charge of IPR cell",
+        "department": "Sardar Patel Institute of Technology",
+        "__v": 0
+      },
+      {
+        "_id": "669e4c0e2eeed0a8cdf99150",
+        "position": "Member of Governing body",
+        "department": "Sardar Patel Institute of Technology ",
+        "__v": 0
+      }
+    ],
+    "visitingpositions": [
+      {
+        "_id": "669e449dbcde2200462851fd",
+        "institute": "Institute of technology for Women (SNDT University)  ",
+        "course": "Image Processing",
+        "tenure": "2003-04",
+        "__v": 0
+      },
+      {
+        "_id": "669e4509bcde22004628524a",
+        "institute": "S.P.Jain Institute of Management Studies and Research",
+        "course": "Computer Graphics",
+        "tenure": "2005-07",
+        "__v": 0
+      },
+      {
+        "_id": "669e4564bcde22004628525e",
+        "institute": "Veermata Jijabai Institute of Technology (V.J.T.I)",
+        "course": "Digital Signal Processing",
+        "tenure": "2010-11",
+        "__v": 0
+      },
+      {
+        "_id": "669e4633bcde2200462852aa",
+        "institute": "Shah & Anchor College of Engineering",
+        "course": "eCommerce & Entreprenurship",
+        "tenure": "--",
+        "__v": 0
+      },
+      {
+        "_id": "669e46dbbcde22004628530d",
+        "institute": "Vivekanand Education Society's Institute of Technology",
+        "course": "Analog & Digital Communication",
+        "tenure": "2004-05",
+        "__v": 0
+      }
+    ],
+    "mentored": [
+      {
+        "_id": "66a286fc78e68429f25c31a2",
+        "date": "2024-07-04T00:00:00.000Z",
+        "title": "Driver Fatigue Detection ",
+        "organisation": "DST",
+        "grantreceived": "100,000",
+        "remarks": "Remarks",
+        "__v": 0,
+        "year": "2010-11"
+      },
+      {
+        "_id": "66a2939b8b9e7925b3fe0c2b",
+        "date": "2024-07-06T00:00:00.000Z",
+        "title": "Electronics Language Interpreter ",
+        "organisation": "DST",
+        "grantreceived": "100,000",
+        "remarks": "remarks",
+        "__v": 0,
+        "year": "2011-12"
+      },
+      {
+        "_id": "66a294168b9e7925b3fe0c97",
+        "date": "2024-07-13T00:00:00.000Z",
+        "title": "Alcohol Level Detector ",
+        "organisation": "DST",
+        "grantreceived": "100,000",
+        "remarks": "remarks",
+        "__v": 0,
+        "year": "2012-13"
+      },
+      {
+        "_id": "66a331d7a221a971b4bf2893",
+        "title": "eMobility",
+        "year": "2023-24",
+        "organisation": "DST NIDHI Prayas ",
+        "grantreceived": "500,000",
+        "remarks": "remarks",
+        "__v": 0
+      },
+      {
+        "_id": "66a33223a221a971b4bf28af",
+        "title": "Drones for Smart Agriculture",
+        "year": "2023-24",
+        "organisation": "IEEE AESS ",
+        "grantreceived": "20,00,000",
+        "remarks": "remarks",
+        "__v": 0
+      }
+    ],
+    "flagships": [
+      {
+        "_id": "669e5428b13fbe5ee89bdc5a",
+        "event": "IEEE Region 10 Colloquium and International Conference ",
+        "year": "2009",
+        "college": "Sardar Patel Institute of Technology Mumbai",
+        "role": "Convenor",
+        "__v": 0
+      },
+      {
+        "_id": "669e55a3b13fbe5ee89bdc95",
+        "event": "IEEE Bombay Section Students Congress",
+        "year": "2017",
+        "college": "Saint Gajanana Maharaj  College of Engineering Shegaon",
+        "role": "Convenor",
+        "__v": 0
+      },
+      {
+        "_id": "669e55d0b13fbe5ee89bdcaa",
+        "event": "IEEE Bombay Section Students Congress",
+        "year": "2019",
+        "college": "Sandip Institute of Technology, Nashik",
+        "role": "Convenor",
+        "__v": 0
+      },
+      {
+        "_id": "669e55fab13fbe5ee89bdcbf",
+        "event": "IEEE Bombay Section Teachers Congress ",
+        "year": "2022",
+        "college": "iBis Hotel, Nashik",
+        "role": "Convenor",
+        "__v": 0
+      },
+      {
+        "_id": "669e5690b13fbe5ee89bdcd4",
+        "event": "IEEE Bombay Section Treasurer Secretry Conclave ",
+        "year": "2023",
+        "college": "Lonavala",
+        "role": "Coordinator",
+        "__v": 0
+      },
+      {
+        "_id": "669e5746b13fbe5ee89bdd11",
+        "event": "IEEE Bombay Section eWaste Conclave ",
+        "year": "2024",
+        "college": "MCA Bandra",
+        "role": "Coordinator",
+        "__v": 0
+      }
+    ],
+    "events": [
+      {
+        "_id": "669f5e2b0dd1263405879f4f",
+        "event": "IEEE Bombay Section Signature Symposium (IBSS) 2015",
+        "venue": "UMIT Santacruz",
+        "date": "September 10-11, 2015 ",
+        "role": "Students and Academia Committee",
+        "weblink": "https://ieeexplore.ieee.org/xpl/conhome/7449753/proceeding https://www.ino.tifr.res.in/bsn/IEEE/BSS%20Committees.pdf",
+        "__v": 0
+      },
+      {
+        "_id": "669f5e970dd1263405879f79",
+        "event": "IEEE Bombay Section Signature Symposium (IBSS) 2016",
+        "venue": "Vidya Pratishthan Baramati   ",
+        "date": "Dec 21-22, 2016",
+        "role": "Session Chair",
+        "weblink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940191",
+        "__v": 0
+      },
+      {
+        "_id": "669f5edf0dd1263405879f8f",
+        "event": "IEEE Bombay Section Signature Conference (IBSSC) 2019",
+        "venue": "VMCC IIT Bombay",
+        "date": "July 26-28,2019",
+        "role": "Publicity Chair",
+        "weblink": "https://ieeebombay.org/call-for-papers-ieee-bombay-section-signature-conference-ibssc-2019/",
+        "__v": 0
+      },
+      {
+        "_id": "669f5f1e0dd1263405879fa5",
+        "event": "IEEE Bombay Section Signature Conference (IBSSC) 2020",
+        "venue": "Virtual",
+        "date": "Sept 2005",
+        "role": "Finance Chair",
+        "weblink": "https://www.ieeebombay.org/ibssc2021/",
+        "__v": 0
+      },
+      {
+        "_id": "669f60c6f84746828c59555a",
+        "event": "IEEE Bombay Section Signature Conference (IBSSC) 2021 ",
+        "venue": "ABV-IIITM Gwalior, India",
+        "date": "November 18-20, 2021",
+        "role": "Finance Chair",
+        "weblink": "https://www.ieeebombay.org/ibssc2021/",
+        "__v": 0
+      },
+      {
+        "_id": "669f611ff84746828c595570",
+        "event": "IEEE Region-10 Symposium 2022",
+        "venue": "VMCC IIT Bombay",
+        "date": "July 1-3, 2022",
+        "role": "Publication Chair",
+        "weblink": "https://www.ieeebombay.org/tensymp2022/",
+        "__v": 0
+      },
+      {
+        "_id": "669f6148f84746828c595586",
+        "event": "2022 IEEE Information Theory Workshop (ITW). ",
+        "venue": "VMCC IIT Bombay",
+        "date": "November 6-9, 2022",
+        "role": "Finance Co-chair",
+        "weblink": "",
+        "__v": 0
+      },
+      {
+        "_id": "669f6191f84746828c59559c",
+        "event": "Fifth IEEE International Conference on ADVANCES IN SCIENCE & TECHNOLOGY (IEEE-ICAST-2022) ",
+        "venue": "KJ Somaiya Institute of Engineering and Information Technology Sion Mumbai",
+        "date": "2003-12-01T18:30:00.000Z",
+        "role": "Technical Program Committee Member",
+        "weblink": "https://sites.google.com/somaiya.edu/ieee-icast-2022/about ",
+        "__v": 0
+      },
+      {
+        "_id": "669f620ff84746828c59562c",
+        "event": "IEEE Bombay Section Signature Conference (IBSSC) 2022 ",
+        "venue": "SVKM’s NMIMS MPSTME, Mumbai, India ",
+        "date": "December 8-10, 2022",
+        "role": "Treasurer  ",
+        "weblink": "https://www.ieeebombay.org/ibssc2022/",
+        "__v": 0
+      },
+      {
+        "_id": "669f624af84746828c595642",
+        "event": "11 th International Conference on Emerging Trends in Engineering & Technology Signal and Information Processing (ICETET SIP-23)  ",
+        "venue": "GH Raisoni CoE Nagpur",
+        "date": "abcd",
+        "role": "National Advisory Board Member",
+        "weblink": "https://ghrce.raisoni.net/icetetsip-23/index.php#:~:text=11th%20International%20Conference%20on%20Emerging,Engineering%2C%20Nagpur%20(India).",
+        "__v": 0
+      },
+      {
+        "_id": "669f628ff84746828c595658",
+        "event": "IEEE Bombay Section Signature Conference (IBSSC) 2023",
+        "venue": "Mukesh Patel Institute of Technology, NMIMS University, Mumbai",
+        "date": "June 8-10, 2023",
+        "role": "Budget & Finance Chair",
+        "weblink": "https://ieeebombay.org/ibssc2023/",
+        "__v": 0
+      },
+      {
+        "_id": "669f62eaf84746828c59566e",
+        "event": "The IEEE Sustainable Smart Lighting World Conference & Expo (LS:18) 2023",
+        "venue": "Mukesh Patel Institute of Technology, NMIMS University, Mumbai",
+        "date": "June 8-10, 2023",
+        "role": "Treasurer and Program Committee Member",
+        "weblink": "https://ieeesmartlightingworld.org/organizing-committee/",
+        "__v": 0
+      },
+      {
+        "_id": "669f6331f84746828c595684",
+        "event": "IEEE Bombay Section Signature Conference (IBSSC) 2024",
+        "venue": "MGM University ",
+        "date": "29-2-2024 to 2-3-2024",
+        "role": "Budget & Finance Chair",
+        "weblink": "https://ieeebombay.org/ibssc2024/",
+        "__v": 0
+      }
+    ],
+    "fdps": [
+      {
+        "_id": "66a4a626453bda167a01694a",
+        "title": "•\tFaculty Development Program Entrepreneurship in Academic Campus ",
+        "description": "funded by DST Prayas Scheme",
+        "from": "2018-07-05T00:00:00.000Z",
+        "to": "2019-07-06T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "66a4a650453bda167a016966",
+        "title": "•\tATAL Faculty Development Program in Institutional Building-Leadership for Academic Excellence in Higher Education ",
+        "description": "funded by AICTE",
+        "from": "2018-07-05T00:00:00.000Z",
+        "to": "2019-07-06T00:00:00.000Z",
+        "__v": 0
+      }
+    ],
+    "workshops": [
+      {
+        "_id": "669e47eedeecefcc4bf9fb83",
+        "title": "•\tATAL Faculty Development Program in Institutional Building-Leadership for Academic Excellence in Higher Education",
+        "description": "funded by AICTE",
+        "from": "2024-07-17T00:00:00.000Z",
+        "to": "2019-07-31T00:00:00.000Z",
+        "__v": 0
+      }
+    ]
+  }

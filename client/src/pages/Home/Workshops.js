@@ -3,9 +3,10 @@ import { useSelector } from "react-redux";
 import SectionTitle from "../../components/SectionTitle";
 import { convertLegacyProps } from "antd/lib/button/button";
 import moment from "moment";
+import portfolioData from "../../portfolioData.json"
 
 function Workshops() {
-  const { loading, portfolioData } = useSelector((state) => state.root);
+
   const { workshops } = portfolioData;
   console.log(workshops);
   // console.log(interests);

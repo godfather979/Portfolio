@@ -2,9 +2,9 @@
 import { useSelector } from "react-redux";
 import SectionTitle from "../../components/SectionTitle";
 import moment from "moment";
+import portfolioData from "../../portfolioData.json"
 
 function Recognitions() {
-  const { loading, portfolioData } = useSelector((state) => state.root);
   const { recognitions } = portfolioData;
    console.log(recognitions);
   return (

@@ -2,9 +2,10 @@
 import { useSelector } from "react-redux";
 import SectionTitle from "../../components/SectionTitle";
 import Events from "./Events";
+import portfolioData from "../../portfolioData.json"
 
 function Flagship() {
-    const { loading, portfolioData } = useSelector((state) => state.root);
+
     const { flagships } = portfolioData;
     console.log(portfolioData);
     console.log(flagships);

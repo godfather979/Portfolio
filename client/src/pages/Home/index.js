@@ -10,9 +10,10 @@ import Recognitions from "./Recognitions";
 import AddPosition from "./AddPosition";
 import VisitingPosition from "./VisitingPosition";
 import Experience1 from "./Experience1";
+import portfolioData from "../../portfolioData.json"
 
 function Home() {
-  const { portfolioData } = useSelector((state) => state.root);
+
   return (
     <div>
       {/* <Header /> */}

@@ -1,9 +1,10 @@
 
 import { useSelector } from "react-redux";
 import SectionTitle from "../../components/SectionTitle";
+import portfolioData from "../../portfolioData.json"
 
 function Events() {
-    const { loading, portfolioData } = useSelector((state) => state.root);
+
     const { events } = portfolioData;
 
     return (

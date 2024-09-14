@@ -3,12 +3,13 @@ import { useSelector } from "react-redux";
 import { Space, Table, Typography } from 'antd';
 import moment from "moment";
 import "../../index.css"
+import portfolioData from "../../portfolioData.json"
 
 
 const {Title, Text} = Typography;
 
 function Patents() {
-    const { portfolioData } = useSelector((state) => state.root);
+
 
     // Safely access awards with optional chaining and provide a default empty array
     const patents = portfolioData?.patents || [];

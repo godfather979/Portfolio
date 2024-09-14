@@ -4,15 +4,13 @@ import { Table, Typography } from 'antd';
 import moment from "moment";
 import "../../index.css"
 import './Styles.css';
-import Footer from "../../components/Footer";
-import Navbar from "../../components/Navbar";
-import { width } from "@fortawesome/free-brands-svg-icons/fa42Group";
+import portfolioData from "../../portfolioData.json"
 
 const {Title, Text} = Typography;
 
 function Mentored() {
 
-    const { portfolioData } = useSelector((state) => state.root);
+
 
     // Safely access awards with optional chaining and provide a default empty array
     const mentored = portfolioData?.mentored || [];

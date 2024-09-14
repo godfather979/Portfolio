@@ -3,11 +3,12 @@ import { useSelector } from "react-redux";
 import SectionTitle from "../../components/SectionTitle";
 import { current } from "@reduxjs/toolkit";
 import moment from "moment";
+import portfolioData from "../../portfolioData.json"
 
 
 function Awards() {
   const [selectedItemIndex , setSelectedItemIndex] = useState(0);
-  const { portfolioData } = useSelector((state) => state.root);
+
   const { awards } = portfolioData;
   return (
     <div className="bg-slate-50 mx-auto px-5 pt-5">

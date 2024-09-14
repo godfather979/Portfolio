@@ -2,9 +2,10 @@ import React, { useState } from "react";
 import { useSelector } from "react-redux";
 import SectionTitle from "../../components/SectionTitle";
 import moment from "moment";
+import portfolioData from "../../portfolioData.json"
 
 function AddPosition() {
-  const { portfolioData } = useSelector((state) => state.root);
+  // const { portfolioData } = useSelector((state) => state.root);
   const { addpositions } = portfolioData;
 
 

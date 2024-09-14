@@ -7,12 +7,13 @@ import Flagship from "./Flagship";
 import Events from "./Events";
 import Workshops from "./Workshops";
 import FDP from "./FDP";
+import portfolioData from "../../portfolioData.json"
 
 const { Title, Text } = Typography;
 
 function ORActivities() {
 
-    const { portfolioData } = useSelector((state) => state.root);
+
 
     // Safely access awards with optional chaining and provide a default empty array
     const oractivities = portfolioData?.oractivities || [];

@@ -1,8 +1,9 @@
 
 import { useSelector } from "react-redux";
+import portfolioData from "../../portfolioData.json"
 
 function Intro() {
-  const { loading, portfolioData } = useSelector((state) => state.root);
+ 
   const { intro } = portfolioData;
   const { firstName, lastName, welcomeText, description, caption } = intro;
   return (
