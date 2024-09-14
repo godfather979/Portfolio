@@ -9,7 +9,7 @@ function AddPosition() {
 
 
   return (
-    <div className="container mx-auto px-4 py-4 bg-gray-50">
+    <div className="container mx-auto px-4 py-4 bg-gray-50 ">
       <SectionTitle text="bold" title="Additional Positions" />
       <div>
         {addpositions.map((addposition, index) => (
