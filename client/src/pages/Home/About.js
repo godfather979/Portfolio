@@ -3,6 +3,8 @@ import { useSelector } from "react-redux";
 import SectionTitle from "../../components/SectionTitle";
 import portfolioData from "../../portfolioData.json"
 
+
+
 function About() {
   // const { loading, portfolioData } = useSelector((state) => state.root);
   const { about } = portfolioData;
@@ -14,7 +16,7 @@ function About() {
         <div className="w-1/2 sm:w-full m-auto p-2">
         <div className="lg:scale-110 sm:scale-95">
           <img
-            src="/Kiran-Talele-picture.png"
+            src="./Kiran-Talele-picture.png"
             alt="Profile"
             className="rounded-full shadow-xl w-64 h-64   object-fit mx-auto"
           />

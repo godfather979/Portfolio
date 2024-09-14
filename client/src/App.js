@@ -69,7 +69,7 @@ const RoutesWithNavbarAndFooter = ({ loading }) => {
       {loading && <Loader />}
       {!isAdminRoute && <Navbar />} {/* Conditionally render Navbar */}
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/portfolio-live" element={<Home />} />
         <Route path="/admin" element={<Admin />} />
         <Route path="/admin-login" element={<Login />} />
         
